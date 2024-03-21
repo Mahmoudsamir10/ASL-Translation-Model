@@ -4,11 +4,6 @@ This repository contains code to build an American Sign Language (ASL) Translati
 
 # Sections
 
-## Install Dependencies 
-To install all the dependencies listed in the requirements.txt file, you can run the following command:
- 
-    pip install -r requirements.txt
-
 ## Datasets
 In our project, we experimented with two datasets: WLASL and ASL Citizen. ASL Citizen offers a notable advantage due to its larger number of examples per word. Additionally, the quality of the videos in ASL Citizen was more consistent compared to WLASL.
 | dataset | link     |
