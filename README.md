@@ -52,6 +52,8 @@ Preprocessing involves preparing the data to serve as input for the model by ens
 In our exploration of various models, we experimented with a wide range of architectures, spanning from simple 1D convolutional networks and Long Short-Term Memory (LSTM) networks to more complex models incorporating custom transformer layers. Our efforts yielded promising results, with our models achieving a peak accuracy of 22% when trained on the WLASL dataset and a remarkable 80% accuracy when trained on the ASL Citizen dataset.
 
 The selection of these diverse architectures allowed us to analyze and compare their performance across different datasets. We conducted extensive hyperparameter tuning and architecture adjustments to optimize the models for each dataset.
+## Demo
+Inside the demo folder, you'll discover a notebook showcasing the implementation of the ASL Translation Model. This notebook demonstrates the model's functionality with both live video feeds and pre-recorded videos. Additionally, it prints the translation output directly onto the frame for easy reference.
 
 
 
