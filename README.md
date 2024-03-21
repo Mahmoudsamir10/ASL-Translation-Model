@@ -8,8 +8,8 @@ This repository contains code to build an American Sign Language (ASL) Translati
 In our project, we experimented with two datasets: WLASL and ASL Citizen. ASL Citizen offers a notable advantage due to its larger number of examples per word. Additionally, the quality of the videos in ASL Citizen was more consistent compared to WLASL.
 | dataset | link     |
 | :-------- | :------- |
-| `WLASL` | `https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed` |
-| `ASL Citizen` | `https://www.kaggle.com/datasets/abd0kamel/asl-citizen` |
+| `WLASL` | `[WLASL Link](https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed)` |
+| `ASL Citizen` | `[ASL Citizen Link](https://www.kaggle.com/datasets/abd0kamel/asl-citizen)` |
 
 ## Data Preparation
 Both WLASL and ASL Citizen datasets are structured as CSV files. We read these CSV files to extract the video data along with associated gloss and split information. This split categorizes the dataset into train, test, and validation subsets.
