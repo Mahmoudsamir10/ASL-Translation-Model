@@ -6,7 +6,7 @@ This repository contains code to build an American Sign Language (ASL) Translati
 
 ## Datasets
 In our project, we experimented with two datasets: WLASL and ASL Citizen. ASL Citizen offers a notable advantage due to its larger number of examples per word. Additionally, the quality of the videos in ASL Citizen was more consistent compared to WLASL.
-| dataset | link     |
+| Dataset | Link     |
 | :-------- | :------- |
 | `WLASL` | [WLASL Link](https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed) |
 | `ASL Citizen` | [ASL Citizen Link](https://www.kaggle.com/datasets/abd0kamel/asl-citizen) |
