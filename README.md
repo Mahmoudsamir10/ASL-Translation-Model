@@ -4,6 +4,20 @@ This repository contains code to build an American Sign Language (ASL) Translati
 
 # Sections
 
+## Installation 
+- Install miniConda from [here](https://docs.anaconda.com/free/miniconda/)
+- Create a new conda environment 
+```bash
+    $ conda create -n asl-demo python=3.9
+```
+- Activate conda env
+```bash
+    $ conda activate asl-demo
+```
+- Install the requirement.txt file using this command
+```bash
+    $ pip install -r requirement.txt
+```
 ## Datasets
 In our project, we experimented with two datasets: WLASL and ASL Citizen. ASL Citizen offers a notable advantage due to its larger number of examples per word. Additionally, the quality of the videos in ASL Citizen was more consistent compared to WLASL.
 | Dataset | Link     |
